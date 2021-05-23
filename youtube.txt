@@ -1,0 +1,5 @@
+# youtube urls
+
+(\.|^)youtube\.com$
+(\.|^)youtube\.de$
+m.youtube.com
