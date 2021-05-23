@@ -1,0 +1,15 @@
+# Simple list that blocks most of the common minecraft stuff the kids use
+
+api.mcsrvstat.us
+api.minecraftservices.com
+jartex.fun
+vanilla-1.myftb.de
+(\.|^)curseforge\.com$
+(\.|^)mojang\.com$
+(\.|^)hypixel\.net$
+(\.|^)aternos\.host$
+(\.|^)aternos\.me$
+(\.|^)namemc\.com$
+(\.|^)originrealms\.com$
+(\.|^)overwolf\.com$
+(\.|^)minecraft\.net$
