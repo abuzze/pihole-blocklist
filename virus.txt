@@ -1,0 +1,2 @@
+# known site that can contain viruses
+0.0.0.0 criticalalertbase.com
